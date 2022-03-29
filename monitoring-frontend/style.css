@@ -1,0 +1,42 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.status-box {
+  width: 80%;
+  text-align: left;
+  margin: 20px;
+  background-color: rgb(192, 187, 187);
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.status-bar {
+  height: 15px;
+  background-color: red;
+  border-radius: 12px;
+  margin: 0;
+  border-style: none;
+}
+
+.size {
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.final {
+  float: right;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
